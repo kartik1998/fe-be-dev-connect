@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://Kartik:dtu@devconnector-4q5fr.mongodb.net/<dbname>?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://Kartik:dtu@cluster0-jvkdn.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
