@@ -4,8 +4,7 @@
   "description": "Social Network for Developers",
   "main": "server.js",
   "scripts": {
-    "start": "node server",
-    "server": "nodemon server"
+    "start": "nodemon server"
   },
   "author": "Kartik Rawat",
   "license": "ISC",
